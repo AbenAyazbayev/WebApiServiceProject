@@ -1,0 +1,11 @@
+C:\Projects\Dtech\Domovoy\Domovoy.WebApi\bin\Debug\netcoreapp2.0\Domovoy.WebApi.deps.json
+C:\Projects\Dtech\Domovoy\Domovoy.WebApi\bin\Debug\netcoreapp2.0\Domovoy.WebApi.runtimeconfig.json
+C:\Projects\Dtech\Domovoy\Domovoy.WebApi\bin\Debug\netcoreapp2.0\Domovoy.WebApi.runtimeconfig.dev.json
+C:\Projects\Dtech\Domovoy\Domovoy.WebApi\bin\Debug\netcoreapp2.0\Domovoy.WebApi.dll
+C:\Projects\Dtech\Domovoy\Domovoy.WebApi\bin\Debug\netcoreapp2.0\Domovoy.WebApi.pdb
+C:\Projects\Dtech\Domovoy\Domovoy.WebApi\obj\Debug\netcoreapp2.0\Domovoy.WebApi.csprojAssemblyReference.cache
+C:\Projects\Dtech\Domovoy\Domovoy.WebApi\obj\Debug\netcoreapp2.0\Domovoy.WebApi.csproj.CoreCompileInputs.cache
+C:\Projects\Dtech\Domovoy\Domovoy.WebApi\obj\Debug\netcoreapp2.0\Domovoy.WebApi.AssemblyInfoInputs.cache
+C:\Projects\Dtech\Domovoy\Domovoy.WebApi\obj\Debug\netcoreapp2.0\Domovoy.WebApi.AssemblyInfo.cs
+C:\Projects\Dtech\Domovoy\Domovoy.WebApi\obj\Debug\netcoreapp2.0\Domovoy.WebApi.dll
+C:\Projects\Dtech\Domovoy\Domovoy.WebApi\obj\Debug\netcoreapp2.0\Domovoy.WebApi.pdb
